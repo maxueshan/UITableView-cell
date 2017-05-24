@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>list</key>
+		<array>
+			<string>如需查看充值记录，您可以国付宝钱包【服务】首页，点击右上角的“订单”，筛选视频会员交易</string>
+		</array>
+		<key>name</key>
+		<string>1、如何查看充值记录？</string>
+	</dict>
+	<dict>
+		<key>list</key>
+		<array>
+			<string>视频会员直充激活时间取决于代理商处理效率，会有一定延迟，请您耐心等待。如确实未激活，您可以拨打国付宝客服进行咨询。如付款成功但充值激活失败，我们将在1-3个工作日内，将您的资金退还到余额账户。</string>
+		</array>
+		<key>name</key>
+		<string>2、直充未激活怎么办？</string>
+	</dict>
+	<dict>
+		<key>list</key>
+		<array>
+			<string>直充完成后，会短信告知您充值成功；购买充值卡后会给您短信下发验证码，您需要自行去相应的视频网站对会员资格进行激活更多问题，可咨询国付宝客服：400-0550-009</string>
+		</array>
+		<key>name</key>
+		<string>3、充值成功是否有消息通知？</string>
+	</dict>
+	<dict>
+		<key>list</key>
+		<array>
+			<string>此业务暂不提供发票，您可以在运营商限定时间内，凭手机号机主身份证到运营商实体营业厅打印发票。</string>
+		</array>
+		<key>name</key>
+		<string>4、充值成功，如何获取发票？</string>
+	</dict>
+</array>
+</plist>

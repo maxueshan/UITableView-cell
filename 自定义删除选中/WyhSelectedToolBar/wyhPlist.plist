@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>text</key>
+		<string>你这篇文章很给力嘛,值得表扬!!!</string>
+		<key>icon</key>
+		<string>baobao</string>
+		<key>name</key>
+		<string>Bob</string>
+		<key>time</key>
+		<string>2017-01-01 18:10</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>我觉得你很有潜力,小伙子~!~!!~~!~!~!请接收的我的吻!!!!</string>
+		<key>icon</key>
+		<string>dolores</string>
+		<key>name</key>
+		<string>dolores</string>
+		<key>time</key>
+		<string>2017-01-01 18:11</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>我乱写了奥 按时打算打算打算打算打算打算打算打算打算打算打算的撒发发是的撒多久能卡萨丁就阿贾克斯的金卡和阿斯顿</string>
+		<key>icon</key>
+		<string>tomy</string>
+		<key>name</key>
+		<string>tomy</string>
+		<key>time</key>
+		<string>2017-01-02 18:10</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>楼上SB么是?  瞎在那写!</string>
+		<key>icon</key>
+		<string>william</string>
+		<key>name</key>
+		<string>william</string>
+		<key>time</key>
+		<string>2017-01-04 19:19</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>我同意楼上的观点~!~!~!</string>
+		<key>icon</key>
+		<string>lisa</string>
+		<key>name</key>
+		<string>lisa</string>
+		<key>time</key>
+		<string>2017-01-07 20:30</string>
+	</dict>
+</array>
+</plist>
